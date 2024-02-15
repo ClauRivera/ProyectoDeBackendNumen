@@ -10,7 +10,7 @@ import EliminarExpediente from './Componentes/EliminarExpediente';
 function App() {
   return (
     <div className="App">
-      <h1 className='bienvenida'>Bienvenidos a Securcop</h1>
+      <h1 className='bienvenida'>(Página en proceso de desarrollo)</h1>
         <CrearExpediente />
         <BuscarExpediente />
         <ActualizarExpediente />

@@ -4,8 +4,8 @@ import '../Hojas-de-estilo/Footer.css';
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>PROYECTO FINAL DE BACKEND PARA ACADEMIA NUMEN</p>
-      <p>PROGRAMADORA: CLAUDIA RIVERA</p>
+      <p>Proyecto final para ACADEMIA NUMEN</p>
+     <p><strong>Programadora: Claudia Rivera</strong></p>
     </footer>
   );
 };

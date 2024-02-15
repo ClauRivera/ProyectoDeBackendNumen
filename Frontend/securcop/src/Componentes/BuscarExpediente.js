@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import '../Hojas-de-estilo/BuscarExpediente.css';
 
-// del lado del backend, este sería la ruta GET
+// En el backend, esta es la ruta GET
 
 function BuscarExpediente() {
   const [id, setId] = useState('');
